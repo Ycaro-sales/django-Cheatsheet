@@ -1,3 +1,4 @@
+#Fundamental 
 ![[Pasted image 20231121130824.png]]
 ### O que está acontecendo:	
 1ª linha: está criando uma instancia de Example pegando os dados do request com o request.DATA

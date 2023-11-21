@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b07bd64f77762134",
+        "id": "e01dcfc054ced05c",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e8058fc5e7edb1",
+            "id": "8c3846b09ffe85c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django.md",
+                "file": "Modelagem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4e4cf833a8f88fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "871277c85e175738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autenticação.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django.md",
+                "file": "TODOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django.md",
+                "file": "TODOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django.md"
+                "file": "TODOS.md"
               }
             }
           }
@@ -146,23 +171,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da5235f07fa0964f",
+  "active": "d4e4cf833a8f88fe",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "text.txt",
     "README.md",
     "Classes/serializer.Serializer.md",
     "Configurando Serializers.md",
     "Serialização.md",
+=======
+    "Modelagem.md",
+    "TODOS.md",
+>>>>>>> c22cfd1 (added some concepts)
     "Django.md",
+    "Encapsulamento de Modelagem.md",
+    "Serialização.md",
+    "Views.md",
+    "images/Pasted image 20231121140454.png",
+    "ViewSets.md",
+    "Renderizando Serializers.md",
+    "Classes/APIView.md",
+    "Acessando Dados Serializados.md",
+    "Requests.md",
+    "Autenticação.md",
+    "images/Pasted image 20231121150740.png",
+    "images/Pasted image 20231121150557.png",
+    "images/Pasted image 20231121150457.png",
+    "Configurando Serializers.md",
+    "images/Pasted image 20231121150048.png",
+    "images/Pasted image 20231121143836.png",
+    "Criando Serializers.md",
+    "images/Pasted image 20231121142531.png",
+    "images/Pasted image 20231121142104.png",
+    "Classes/serializer.Serializer.md",
+    "text.txt",
+    "README.md",
     "Classes",
     "images/Pasted image 20231121125641.png",
     "images/Pasted image 20231121131239.png",
     "Untitled 1.md",
-    "Untitled.md",
     "images",
-    "images/Pasted image 20231121130824.png",
-    "images/Pasted image 20231121130019.png",
-    "images/Pasted image 20231121131112.png",
-    "django.contrib.staticfiles.md"
+    "Classes/django.contrib.staticfiles.md"
   ]
 }
